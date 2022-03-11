@@ -1,0 +1,1 @@
+const t={key:"v-3093f997",path:"/statuses/fr.html",title:"fr",lang:"en-US",frontmatter:{editLink:!1},excerpt:"",headers:[],git:{updatedTime:1645084765e3,contributors:[{name:"GitHub Action",email:"action@github.com",commits:32},{name:"Andrey Helldar",email:"helldar@ai-rus.com",commits:12}]},filePathRelative:"statuses/fr.md"};export{t as data};
